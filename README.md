@@ -1,6 +1,6 @@
 # Olá, sou o João Santos 👨‍💻
 
-Sou desenvolvedor Java e apaixonado por tecnologia.
+Sou desenvolvedor Java e apaixonado por desenvolvimento e tecnologia.
 ### 👀 Estou buscando uma vaga no momento 👀
 
 ## ⚡ Habilidades
