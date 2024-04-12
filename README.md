@@ -6,7 +6,7 @@ Sou desenvolvedor Java e apaixonado por desenvolvimento e tecnologia.
 ## ⚡ Habilidades
 - Desenvolvimento Java (Stream API, JavaFX, Banco de Dados Relacional, Banco de Dados Não Relacional, JPA(Hibernate), Spring Boot)
 - Git e GitHub
-- MySQL
+- Banco de Dados MySQL, PostgreSQL, SQL Server e Oracle.
 
 
 ## 📫 Entre em contato
